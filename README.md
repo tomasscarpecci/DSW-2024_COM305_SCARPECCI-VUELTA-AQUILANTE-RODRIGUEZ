@@ -16,7 +16,7 @@
 Nuestro Software se basa en una aplicación que funciona como un portal de noticias. Los usuarios podrán suscribirse a la plataforma aceptando un plan de pago, que puede variar de acuerdo al tipo de suscripcion (unipersonal, familiar, business). En la app se podrán visualizar noticias de diferentes editoriales asociadas a la plataforma y así poder tener diferentes puntos de vista sobre un mismo hecho. Lo innovador es que se podrán leer noticias completas de varios diarios (nacionales e internacionales) contratando una sola suscripcion, sin tener que registrarse en la pagina de cada editorial.
 
 ### Modelo
-[Draw.io]([https://drive.google.com/file/d/1vNt57zkz5b0-Ddx8Oxv6-CXo2ww_BEuQ/view?usp=sharing](https://app.diagrams.net/#G1vNt57zkz5b0-Ddx8Oxv6-CXo2ww_BEuQ#%7B%22pageId%22%3A%22BZU_zNHKANrZMkoOcO2Y%22%7D)) 
+[Draw.io](https://app.diagrams.net/#G1vNt57zkz5b0-Ddx8Oxv6-CXo2ww_BEuQ#%7B%22pageId%22%3A%22BZU_zNHKANrZMkoOcO2Y%22%7D) 
 
 ## Alcance Funcional 
 |Req|Detalle|
