@@ -26,3 +26,5 @@ Nuestro Software se basa en una aplicación que funciona como un portal de notic
 |Listado<br>+<br>detalle| 1. Listado de noticias filtrado por categoría, muestra título, fecha y editorial => detalle muestra datos de la noticia y la editorial<br> 2. Listado de suscriptores filtrado por tipo suscripción, muestra nombre, usuario, mail, edad ⇒ detalle CRUD Suscriptor<br>3. Listado de noticias filtrado por suscriptor, muestra categoría de la noticia |
 |CUU/Epic|1. Realizar suscripción de categoría para poder ver la noticia completa.<br>2.Anular suscripción si desea no continuar con esa categoría.|
 
+## WorkSpace
+[Notion](https://www.notion.so/Workspace-Desarrollo-de-SW-73c2ff5055bc4f3ea4d0dc12968b0895?pvs=4)
