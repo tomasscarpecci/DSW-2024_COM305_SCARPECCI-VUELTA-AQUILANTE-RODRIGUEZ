@@ -23,7 +23,7 @@ Nuestro Software se basa en una aplicación que funciona como un portal de notic
 |CRUD simple|1. CRUD Categoria<br>2. CRUD Usuario<br>3. CRUD Editorial<br>|
 |CRUD dependiente|1. CRUD Noticia {depende de} CRUD Categoria<br>2. CRUD Noticia {depende de} CRUD Editorial<br>|
 |Listado<br>+<br>detalle| 1. Listado de noticias, muestra título, fecha y editorial => detalle muestra datos de la noticia y la editorial<br> 2. Listado de suscriptores, muestra nombre, usuario, mail, edad ⇒ detalle CRUD Suscriptor<br>|
-|CUU/Epic|1. Mostrar una noticia.<br>2.Eliminar una editorial y por consiguiente todas sus noticias.|
+|CUU/Epic|1. Mostrar una noticia.<br>2. Eliminar una editorial y por consiguiente todas sus noticias.|
 
 ## WorkSpace
 [Notion](https://www.notion.so/Workspace-Desarrollo-de-SW-73c2ff5055bc4f3ea4d0dc12968b0895?pvs=4)
