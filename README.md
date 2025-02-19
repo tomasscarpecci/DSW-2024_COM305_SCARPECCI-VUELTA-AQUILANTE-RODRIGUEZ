@@ -5,7 +5,6 @@
 * 50955 - Scarpecci, Tomás Agustín
 * 51434 - Vuelta, Tomás Manuel
 * 50462 - Aquilante, Jazmín
-* 51013 - Rodriguez, Maria Julieta
 
 ### Repositorios
 * [frontend app](https://github.com/tomasscarpecci/frontend-app)
@@ -21,10 +20,10 @@ Nuestro Software se basa en una aplicación que funciona como un portal de notic
 ## Alcance Funcional 
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Categoria<br>2. CRUD Usuario<br>3. CRUD Editorial<br>4. CRUD TipoSuscripcion|
-|CRUD dependiente|1. CRUD Noticia {depende de} CRUD Categoria<br>2. CRUD Suscripción {depende de} CRUD TipoSuscripcion<br>3. CRUD PrecioSuscripcion {depende de} CRUD TipoSuscripcion |
-|Listado<br>+<br>detalle| 1. Listado de noticias filtrado por categoría, muestra título, fecha y editorial => detalle muestra datos de la noticia y la editorial<br> 2. Listado de suscriptores filtrado por tipo suscripción, muestra nombre, usuario, mail, edad ⇒ detalle CRUD Suscriptor<br>3. Listado de noticias filtrado por suscriptor, muestra categoría de la noticia |
-|CUU/Epic|1. Realizar suscripción de categoría para poder ver la noticia completa.<br>2.Anular suscripción si desea no continuar con esa categoría.|
+|CRUD simple|1. CRUD Categoria<br>2. CRUD Usuario<br>3. CRUD Editorial<br>|
+|CRUD dependiente|1. CRUD Noticia {depende de} CRUD Categoria<br>2. CRUD Noticia {depende de} CRUD Editorial<br>|
+|Listado<br>+<br>detalle| 1. Listado de noticias, muestra título, fecha y editorial => detalle muestra datos de la noticia y la editorial<br> 2. Listado de suscriptores, muestra nombre, usuario, mail, edad ⇒ detalle CRUD Suscriptor<br>|
+|CUU/Epic|1. Mostrar una noticia.<br>2.Eliminar una editorial y por consiguiente todas sus noticias.|
 
 ## WorkSpace
 [Notion](https://www.notion.so/Workspace-Desarrollo-de-SW-73c2ff5055bc4f3ea4d0dc12968b0895?pvs=4)
