@@ -20,7 +20,7 @@ Nuestro Software se basa en una aplicación que funciona como un portal de notic
 ## Alcance Funcional 
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Categoria<br>2. CRUD Usuario<br>3. CRUD Editorial<br><br>4. CRUD Noticia<br>|
+|CRUD simple|1. CRUD Categoria<br>2. CRUD Usuario<br>3. CRUD Editorial<br>4. CRUD Noticia<br>|
 |CRUD dependiente|1. CRUD Noticia {depende de} CRUD Categoria<br>2. CRUD Noticia {depende de} CRUD Editorial<br>|
 |Listado<br>+<br>detalle| 1. Listado de noticias, muestra título, fecha y editorial => detalle CRUD Noticia y CRUD Editorial<br> 2. Listado de usuarios, muestra nombre, usuario, mail, edad ⇒ detalle CRUD Usuario<br>|
 |CUU/Epic|1. Mostrar una noticia.<br>2. Eliminar una editorial y por consiguiente todas sus noticias.|
