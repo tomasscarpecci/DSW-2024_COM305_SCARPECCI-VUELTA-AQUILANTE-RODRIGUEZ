@@ -22,7 +22,7 @@ Nuestro Software se basa en una aplicación que funciona como un portal de notic
 |:-|:-|
 |CRUD simple|1. CRUD Categoria<br>2. CRUD Usuario<br>3. CRUD Editorial<br>|
 |CRUD dependiente|1. CRUD Noticia {depende de} CRUD Categoria<br>2. CRUD Noticia {depende de} CRUD Editorial<br>|
-|Listado<br>+<br>detalle| 1. Listado de noticias, muestra título, fecha y editorial => detalle muestra datos de la noticia y la editorial<br> 2. Listado de suscriptores, muestra nombre, usuario, mail, edad ⇒ detalle CRUD Suscriptor<br>|
+|Listado<br>+<br>detalle| 1. Listado de noticias, muestra título, fecha y editorial => detalle CRUD Noticia y CRUD Editorial<br> 2. Listado de usuarios, muestra nombre, usuario, mail, edad ⇒ detalle CRUD Usuario<br>|
 |CUU/Epic|1. Mostrar una noticia.<br>2. Eliminar una editorial y por consiguiente todas sus noticias.|
 
 ## WorkSpace
